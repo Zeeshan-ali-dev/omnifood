@@ -987,3 +987,12 @@ Ensure the default browser behavior of the `hidden` attribute.
     line-height: 1.75rem;
   }
 }
+
+
+.bgimg{
+    background: url(/dist/img/eating.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100%;
+}
